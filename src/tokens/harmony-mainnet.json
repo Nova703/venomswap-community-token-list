@@ -118,5 +118,12 @@
     "name": "ONEMILLION",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MIL.png"
-  }
-]
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x8aEb6B3DCDC8D9Ad0599bA1Ba4E70016C67E3c41",
+    "symbol": "$GRDN",
+    "name": "Garden",
+    "decimals": 8,
+    "logoURI": "https://user-images.githubusercontent.com/86338759/123363808-46a8f300-d541-11eb-9731-0a23588b78d7.png"
+    ]
